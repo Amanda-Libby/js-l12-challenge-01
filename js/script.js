@@ -10,3 +10,5 @@ const getImage = async function () {
   };
   
   getImage();
+
+  // coments
